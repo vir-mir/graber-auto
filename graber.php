@@ -11,6 +11,7 @@ ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
 
+
 define('VM_MIG', __DIR__);
 define('VM_MIG_TM', VM_MIG . "/graber/templeat/");
 define('VM_MIG_DB', VM_MIG . "/graber/db/");
